@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
  ## Using
 ```C++
-"C","C++",,"Asm","Python","Go","JS"
+"C++","C","Go","Asm","ktlin","java","Python","JS"
 ```
 ## repositories
 <a href="https://github.com/anuraghazra/github-readme-stats">
